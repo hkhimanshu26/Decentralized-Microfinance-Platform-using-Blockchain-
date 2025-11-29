@@ -72,7 +72,6 @@ npx hardhat run scripts/deploy.js --network sepolia
 npm run dev
 ```
 
-Visit your DApp at [http://localhost:3000](http://localhost:3000)
 
 ---
 
@@ -104,3 +103,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 ## 📜 License
 
 [MIT](LICENSE)
+
